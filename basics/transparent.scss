@@ -126,7 +126,7 @@
             .container-ZMc96U.themed-Hp1KC_ {
                 background: transparent;
                 .children-3xh0VB:after {
-                    opacity: 1;
+                    opacity: 0;
                 }
                 .searchBar-zdmu7v {
                     background: rgba(0,0,0,0.4);
@@ -170,7 +170,7 @@
                 }
             }
             .form-3gdLxP:before {
-                opacity: 1;
+                opacity: 0;
             }
             .channelTextArea-1FufC0 {
                 background: rgba(0,0,0,0.4);
@@ -262,7 +262,7 @@ code {
     backdrop-filter: blur(var(--chattyBlur)) brightness(0.7);
 }
 .backdropWithLayer-3_uhz4 {
-    opacity: 1 !important;
+    opacity: 3 !important;
     background-color: rgba(0, 0, 0, 0.4) !important;
     backdrop-filter: blur(var(--chattyBlur)) brightness(0.7);
 }
